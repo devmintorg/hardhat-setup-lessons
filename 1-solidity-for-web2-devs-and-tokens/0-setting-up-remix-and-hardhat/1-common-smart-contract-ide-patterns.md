@@ -30,7 +30,7 @@ Depending on the IDE, you may need to do more setup and installs, but all of the
 - Are there any patterns or tools that are missing?
 
 ## Folder Structure and Setup
-All frameworks in the smart contract world will have a standard'way of setting up their files. The structure looks as follows:
+All frameworks in the smart contract world will have a standard way of setting up their files. The structure looks as follows:
 
 - `contracts` will hold your contract files, ending in the `.sol` extension
 - `scripts` will hold your deployment and automation files, ending in the `.js` or `.ts` extension
